@@ -9,7 +9,7 @@
 
 
 ## Assets
-### Tilesets
+### Spritesheets and Tilesets
 http://www.sprites-inc.co.uk/sprite.php?local=Classic/MM1/Tiles/
 1) Ensure Texture Type is Sprite
 2) Set Sprite Mode to Multiple
