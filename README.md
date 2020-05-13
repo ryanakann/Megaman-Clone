@@ -5,4 +5,4 @@
 2) Create an account, and download Unity 2019.3.12 on your machine 
 3) Create new GitHub repo, initialized with a Unity .gitignore file
 4) In Unity Hub, Create a new project inside the repo
-5) Move the .gitignore file into the Unity project root folder (not the Repository root)
+5) Move the .gitignore file into the Unity project root folder (Not the Repository root. Do not commit until the number of changed files is ~25, not several hundred.)
