@@ -10,7 +10,8 @@
 
 ## Assets
 ### Spritesheets and Tilesets
-http://www.sprites-inc.co.uk/sprite.php?local=Classic/MM1/Tiles/
+Megaman: http://www.sprites-inc.co.uk/sprite.php?local=/Classic/Megaman/MM8/
+Tilesets: http://www.sprites-inc.co.uk/sprite.php?local=Classic/MM1/Tiles/
 1) Ensure Texture Type is Sprite
 2) Set Sprite Mode to Multiple
 3) Set Pixels Per Unit to 16
