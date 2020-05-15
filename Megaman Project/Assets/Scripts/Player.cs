@@ -69,7 +69,7 @@ public class Player : MonoBehaviour {
 
             rb.velocity -= Physics2D.gravity.normalized * jumpVelocity;
 
-            controller.SetTrigger("jump");
+            // controller.SetTrigger("jump");
         }
 
         controller.SetFloat("x", Mathf.Abs(x));
