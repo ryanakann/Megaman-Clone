@@ -166,7 +166,6 @@ public class AnimatorController : MonoBehaviour {
         bool repeat = true;
         while (repeat) {
             renderer.sprite = state.frames[frameIndex];
-            print("Frame index: " + frameIndex);
             yield return new WaitForSeconds(state.secondsPerFrame);
             frameIndex = (frameIndex + 1) % numFrames;
             if (!state.loop && frameIndex == 0) {
