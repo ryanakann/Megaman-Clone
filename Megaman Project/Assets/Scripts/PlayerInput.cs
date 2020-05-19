@@ -12,5 +12,9 @@ public class PlayerInput : MonoBehaviour {
 
     private void Update () {
         player.Move(Input.GetAxisRaw("Horizontal"), Input.GetButtonDown("Jump"), Input.GetButton("Jump"));
+
+        if (Input.GetButtonDown("Fire1")) {
+            player.Shoot();
+        }
     }
 }

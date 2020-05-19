@@ -9,7 +9,7 @@ public class Player : MonoBehaviour {
     private CustomRigidbody2D rb;
     
 
-
+    [Header("Movement")]
     [Range(0.25f, 20f)]
     public float groundSpeed = 1f;
     [Range(0.25f, 20f)]
@@ -23,10 +23,46 @@ public class Player : MonoBehaviour {
     [Tooltip("Multiplier independent of above jump parameters")]
     [SerializeField] public float gravityMultiplier = 1f;
 
+    [Header("Shot Control")]
+    public float shotMaxCD = 0.2f;
+    private float shotCurCD;
+    public int maxShotsPerInterval = 3;
+    public float intervalSeconds = 1f;
+    public float curIntervalOffset;
+    public int shotsTakenThisInterval;
+
     private void Awake () {
         renderer = GetComponent<SpriteRenderer>();
         controller = GetComponent<AnimatorController>();
         rb = GetComponent<CustomRigidbody2D>();
+
+        shotCurCD = shotMaxCD;
+        shotsTakenThisInterval = 0;
+        curIntervalOffset = 0f;
+    }
+
+    protected void Update () {
+        if (shotCurCD <= 0) {
+            shotCurCD = 0f;
+        } else {
+            shotCurCD -= Time.deltaTime;
+        }
+
+        if (curIntervalOffset >= intervalSeconds || shotsTakenThisInterval == 0) {
+            curIntervalOffset = 0f;
+            shotsTakenThisInterval = 0;
+        } else {
+            curIntervalOffset += Time.deltaTime;
+        }
+    }
+
+    public void Shoot () {
+        if (shotCurCD <= 0 && shotsTakenThisInterval < maxShotsPerInterval) {
+            shotsTakenThisInterval++;
+            shotCurCD = shotMaxCD;
+
+            Debug.Log("Bang!");
+        }
     }
 
     public void Move(float x, bool jumpDown, bool jumpStay) {
@@ -38,10 +74,6 @@ public class Player : MonoBehaviour {
         }
 
         rb.velocity.x = x * (rb.grounded ? groundSpeed : airSpeed);
-
-        // if (jumpDown && rb.grounded) {
-        //     rb.velocity.y = 10f;
-        // }
 
         //JUMP MODIFIER
         /******************************************************************/

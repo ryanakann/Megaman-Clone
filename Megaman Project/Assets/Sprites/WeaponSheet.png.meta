@@ -1,0 +1,3572 @@
+fileFormatVersion: 2
+guid: 20c234e1a6635284ba298657941b8409
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -2747262468775077721
+    second: WeaponSheet_0
+  - first:
+      213: -5451274958722011447
+    second: WeaponSheet_1
+  - first:
+      213: 3433707208956208159
+    second: WeaponSheet_2
+  - first:
+      213: 3438225818590557238
+    second: WeaponSheet_3
+  - first:
+      213: -32734407423115493
+    second: WeaponSheet_4
+  - first:
+      213: 2318858300692336710
+    second: WeaponSheet_5
+  - first:
+      213: 2887673289783241478
+    second: WeaponSheet_6
+  - first:
+      213: -2594704373254007553
+    second: WeaponSheet_7
+  - first:
+      213: 5068932007474414928
+    second: WeaponSheet_8
+  - first:
+      213: -1123233972477902255
+    second: WeaponSheet_9
+  - first:
+      213: 7580187816890771970
+    second: WeaponSheet_10
+  - first:
+      213: 1596226532143470612
+    second: WeaponSheet_11
+  - first:
+      213: -6930001234213940369
+    second: WeaponSheet_12
+  - first:
+      213: 8802561755353677243
+    second: WeaponSheet_13
+  - first:
+      213: -2391816315932483057
+    second: WeaponSheet_14
+  - first:
+      213: -3826993878249556256
+    second: WeaponSheet_15
+  - first:
+      213: -57332508490195187
+    second: WeaponSheet_16
+  - first:
+      213: -7438152649247770120
+    second: WeaponSheet_17
+  - first:
+      213: -3530409904538946141
+    second: WeaponSheet_18
+  - first:
+      213: 209261224551112163
+    second: WeaponSheet_19
+  - first:
+      213: -396084054104997392
+    second: WeaponSheet_20
+  - first:
+      213: 3757909233205890937
+    second: WeaponSheet_21
+  - first:
+      213: 1953990879961982645
+    second: WeaponSheet_22
+  - first:
+      213: 6671715076045348943
+    second: WeaponSheet_23
+  - first:
+      213: 289317834646976026
+    second: WeaponSheet_24
+  - first:
+      213: -3469360790783835923
+    second: WeaponSheet_25
+  - first:
+      213: 9063504219883595746
+    second: WeaponSheet_26
+  - first:
+      213: -81359766655031030
+    second: WeaponSheet_27
+  - first:
+      213: 4896264467762450838
+    second: WeaponSheet_28
+  - first:
+      213: 6147314497820748752
+    second: WeaponSheet_29
+  - first:
+      213: -6775652183271918264
+    second: WeaponSheet_30
+  - first:
+      213: 507751555178792882
+    second: WeaponSheet_31
+  - first:
+      213: 6617904285782555704
+    second: WeaponSheet_32
+  - first:
+      213: -3879794027407343967
+    second: WeaponSheet_33
+  - first:
+      213: 8657639956419052400
+    second: WeaponSheet_34
+  - first:
+      213: -1182837514686578808
+    second: WeaponSheet_35
+  - first:
+      213: 6163510830454834373
+    second: WeaponSheet_36
+  - first:
+      213: 4731877214357790880
+    second: WeaponSheet_37
+  - first:
+      213: -7562609993338348820
+    second: WeaponSheet_38
+  - first:
+      213: -6533288092166205346
+    second: WeaponSheet_39
+  - first:
+      213: 5441123429910381123
+    second: WeaponSheet_40
+  - first:
+      213: 2305004108608897343
+    second: WeaponSheet_41
+  - first:
+      213: -6305702148884876204
+    second: WeaponSheet_42
+  - first:
+      213: -1180503898291601871
+    second: WeaponSheet_43
+  - first:
+      213: 6227629481590462549
+    second: WeaponSheet_44
+  - first:
+      213: 3502106359001572888
+    second: WeaponSheet_45
+  - first:
+      213: 8589217088920773630
+    second: WeaponSheet_46
+  - first:
+      213: 8816927849310096069
+    second: WeaponSheet_47
+  - first:
+      213: 6572769047140985941
+    second: WeaponSheet_48
+  - first:
+      213: 7275365953291657236
+    second: WeaponSheet_49
+  - first:
+      213: -1589500909090927103
+    second: WeaponSheet_50
+  - first:
+      213: -78423861874868279
+    second: WeaponSheet_51
+  - first:
+      213: 6040801995684549835
+    second: WeaponSheet_52
+  - first:
+      213: -8333342821992012291
+    second: WeaponSheet_53
+  - first:
+      213: -6207602557228130080
+    second: WeaponSheet_54
+  - first:
+      213: -203220079282386607
+    second: WeaponSheet_55
+  - first:
+      213: -8289466114283483279
+    second: WeaponSheet_56
+  - first:
+      213: -4384036220068973536
+    second: WeaponSheet_57
+  - first:
+      213: 5480413069204245311
+    second: WeaponSheet_58
+  - first:
+      213: -4695604091790282765
+    second: WeaponSheet_59
+  - first:
+      213: -7318427862364816389
+    second: WeaponSheet_60
+  - first:
+      213: -1581411371835421388
+    second: WeaponSheet_61
+  - first:
+      213: 1843872716168201241
+    second: WeaponSheet_62
+  - first:
+      213: -4661816356577016582
+    second: WeaponSheet_63
+  - first:
+      213: 7162992419964295498
+    second: WeaponSheet_64
+  - first:
+      213: 3715401215593164065
+    second: WeaponSheet_65
+  - first:
+      213: 9092282985442000235
+    second: WeaponSheet_66
+  - first:
+      213: 9049126185266135739
+    second: WeaponSheet_67
+  - first:
+      213: -727145421401004114
+    second: WeaponSheet_68
+  - first:
+      213: 7260910185375406302
+    second: WeaponSheet_69
+  - first:
+      213: 2985329839762373287
+    second: WeaponSheet_70
+  - first:
+      213: 5216573935185045247
+    second: WeaponSheet_71
+  - first:
+      213: -284195062717799187
+    second: WeaponSheet_72
+  - first:
+      213: 741566880666321522
+    second: WeaponSheet_73
+  - first:
+      213: 5454156722504340990
+    second: WeaponSheet_74
+  - first:
+      213: 1174396975772180128
+    second: WeaponSheet_75
+  - first:
+      213: 5995993812385969167
+    second: WeaponSheet_76
+  - first:
+      213: -4097904293180730205
+    second: WeaponSheet_77
+  - first:
+      213: -2059529801553231306
+    second: WeaponSheet_78
+  - first:
+      213: -8233973691414036226
+    second: WeaponSheet_79
+  - first:
+      213: 1378217449556200372
+    second: WeaponSheet_80
+  - first:
+      213: -2460747443871661632
+    second: WeaponSheet_81
+  - first:
+      213: 2512689524089724230
+    second: WeaponSheet_82
+  - first:
+      213: -8268644744997552946
+    second: WeaponSheet_83
+  - first:
+      213: -8566503573694947573
+    second: WeaponSheet_84
+  - first:
+      213: -2135893165395142190
+    second: WeaponSheet_85
+  - first:
+      213: 5712102199922309688
+    second: WeaponSheet_86
+  - first:
+      213: -8653209825854344024
+    second: WeaponSheet_87
+  - first:
+      213: 3280274158545375851
+    second: WeaponSheet_88
+  - first:
+      213: 7955103239275030321
+    second: WeaponSheet_89
+  - first:
+      213: 4527837554052544088
+    second: WeaponSheet_90
+  - first:
+      213: -2396251489802261390
+    second: WeaponSheet_91
+  - first:
+      213: 7746885330827535481
+    second: WeaponSheet_92
+  - first:
+      213: -3544924198904394725
+    second: WeaponSheet_93
+  - first:
+      213: -5084021888264322874
+    second: WeaponSheet_94
+  - first:
+      213: 7319445589557650560
+    second: WeaponSheet_95
+  - first:
+      213: 3874902551217351742
+    second: WeaponSheet_96
+  - first:
+      213: 7197536258044101124
+    second: WeaponSheet_97
+  - first:
+      213: 5934229299045300496
+    second: WeaponSheet_98
+  - first:
+      213: 4905750650190499467
+    second: WeaponSheet_99
+  - first:
+      213: -5090081709378309527
+    second: WeaponSheet_100
+  - first:
+      213: 978141121545520509
+    second: WeaponSheet_101
+  - first:
+      213: -3794043914320205703
+    second: WeaponSheet_102
+  - first:
+      213: -2086364543539703384
+    second: WeaponSheet_103
+  - first:
+      213: -4106051737285170350
+    second: WeaponSheet_104
+  - first:
+      213: 2622709780355156759
+    second: WeaponSheet_105
+  - first:
+      213: -6514114162126168218
+    second: WeaponSheet_106
+  - first:
+      213: -2380343986321657152
+    second: WeaponSheet_107
+  - first:
+      213: 2208148823515062665
+    second: WeaponSheet_108
+  - first:
+      213: -5011134742596768799
+    second: WeaponSheet_109
+  - first:
+      213: 276619541138126156
+    second: WeaponSheet_110
+  - first:
+      213: -3409584545519633813
+    second: WeaponSheet_111
+  - first:
+      213: 8753071158635639773
+    second: WeaponSheet_112
+  - first:
+      213: 5370495280017274458
+    second: WeaponSheet_113
+  - first:
+      213: 224639943954949093
+    second: WeaponSheet_114
+  - first:
+      213: 6217774861445525853
+    second: WeaponSheet_115
+  - first:
+      213: 1561078552699951226
+    second: WeaponSheet_116
+  - first:
+      213: -4163452035331327649
+    second: WeaponSheet_117
+  - first:
+      213: -1018817637873977910
+    second: WeaponSheet_118
+  - first:
+      213: 2842652105750742741
+    second: WeaponSheet_119
+  - first:
+      213: -3334781768108012166
+    second: WeaponSheet_120
+  - first:
+      213: -1058945464715071849
+    second: WeaponSheet_121
+  - first:
+      213: -2161578009988675694
+    second: WeaponSheet_122
+  - first:
+      213: 1008599566128394367
+    second: WeaponSheet_123
+  - first:
+      213: 130338806682566002
+    second: WeaponSheet_124
+  - first:
+      213: -9124425022517548539
+    second: WeaponSheet_125
+  - first:
+      213: -4637282534347889383
+    second: WeaponSheet_126
+  - first:
+      213: 4794411890926411461
+    second: WeaponSheet_127
+  - first:
+      213: -1575266037880488755
+    second: WeaponSheet_128
+  - first:
+      213: -4743866103598763400
+    second: WeaponSheet_129
+  - first:
+      213: 971949174967568480
+    second: WeaponSheet_130
+  - first:
+      213: -6288970210173326600
+    second: WeaponSheet_131
+  - first:
+      213: 4446000076910370587
+    second: WeaponSheet_132
+  - first:
+      213: 7008892265547043601
+    second: WeaponSheet_133
+  - first:
+      213: -6936734162038349147
+    second: WeaponSheet_134
+  - first:
+      213: -8432401044777525073
+    second: WeaponSheet_135
+  - first:
+      213: 4175785158752127882
+    second: WeaponSheet_136
+  - first:
+      213: -848956893921969617
+    second: WeaponSheet_137
+  - first:
+      213: -5278943648878525876
+    second: WeaponSheet_138
+  - first:
+      213: -8596365373745492534
+    second: WeaponSheet_139
+  - first:
+      213: 7310334986840160583
+    second: WeaponSheet_140
+  - first:
+      213: -5120121080392297653
+    second: WeaponSheet_141
+  - first:
+      213: -7262860320706449297
+    second: WeaponSheet_142
+  - first:
+      213: -1671116303974984926
+    second: WeaponSheet_143
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 16
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: WeaponSheet_0
+      rect:
+        serializedVersion: 2
+        x: 190
+        y: 405
+        width: 21
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7a816eb1753cfd9d0800000000000000
+      internalID: -2747262468775077721
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WeaponSheet_1
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 405
+        width: 31
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9ce6460ae4e2954b0800000000000000
+      internalID: -5451274958722011447
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WeaponSheet_2
+      rect:
+        serializedVersion: 2
+        x: 254
+        y: 415
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f146884938af6af20800000000000000
+      internalID: 3433707208956208159
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WeaponSheet_3
+      rect:
+        serializedVersion: 2
+        x: 166
+        y: 373
+        width: 21
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 634baae5a2807bf20800000000000000
+      internalID: 3438225818590557238
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WeaponSheet_4
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 373
+        width: 27
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b1fbc99da34bb8ff0800000000000000
+      internalID: -32734407423115493
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WeaponSheet_5
+      rect:
+        serializedVersion: 2
+        x: 226
+        y: 379
+        width: 10
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6409b31b65d3e2020800000000000000
+      internalID: 2318858300692336710
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WeaponSheet_6
+      rect:
+        serializedVersion: 2
+        x: 241
+        y: 379
+        width: 14
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 60be9e8be83131820800000000000000
+      internalID: 2887673289783241478
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WeaponSheet_7
+      rect:
+        serializedVersion: 2
+        x: 260
+        y: 379
+        width: 10
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ff4da0fae12cdfbd0800000000000000
+      internalID: -2594704373254007553
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WeaponSheet_8
+      rect:
+        serializedVersion: 2
+        x: 276
+        y: 383
+        width: 14
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 055ce10fdc6785640800000000000000
+      internalID: 5068932007474414928
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WeaponSheet_9
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 302
+        width: 21
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 152cdc637a87960f0800000000000000
+      internalID: -1123233972477902255
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WeaponSheet_10
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 302
+        width: 51
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 20aa48c68ac323960800000000000000
+      internalID: 7580187816890771970
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WeaponSheet_11
+      rect:
+        serializedVersion: 2
+        x: 87
+        y: 302
+        width: 43
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4181775e29fe62610800000000000000
+      internalID: 1596226532143470612
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WeaponSheet_12
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 302
+        width: 31
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f63d8ad1890b3df90800000000000000
+      internalID: -6930001234213940369
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WeaponSheet_13
+      rect:
+        serializedVersion: 2
+        x: 175
+        y: 302
+        width: 31
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bbd7b4d474bf82a70800000000000000
+      internalID: 8802561755353677243
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WeaponSheet_14
+      rect:
+        serializedVersion: 2
+        x: 213
+        y: 302
+        width: 31
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f026cd8abbf8eced0800000000000000
+      internalID: -2391816315932483057
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WeaponSheet_15
+      rect:
+        serializedVersion: 2
+        x: 252
+        y: 302
+        width: 31
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0e637511859c3eac0800000000000000
+      internalID: -3826993878249556256
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WeaponSheet_16
+      rect:
+        serializedVersion: 2
+        x: 290
+        y: 302
+        width: 31
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d0f1c552360543ff0800000000000000
+      internalID: -57332508490195187
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WeaponSheet_17
+      rect:
+        serializedVersion: 2
+        x: 330
+        y: 302
+        width: 31
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8f9b474139f56c890800000000000000
+      internalID: -7438152649247770120
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WeaponSheet_18
+      rect:
+        serializedVersion: 2
+        x: 370
+        y: 303
+        width: 31
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a57f6095e6710fc0800000000000000
+      internalID: -3530409904538946141
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WeaponSheet_19
+      rect:
+        serializedVersion: 2
+        x: 407
+        y: 302
+        width: 27
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3edd1aa99f177e200800000000000000
+      internalID: 209261224551112163
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WeaponSheet_20
+      rect:
+        serializedVersion: 2
+        x: 444
+        y: 308
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0f100edb6a3d08af0800000000000000
+      internalID: -396084054104997392
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WeaponSheet_21
+      rect:
+        serializedVersion: 2
+        x: 178
+        y: 265
+        width: 21
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 97fc56f8986c62430800000000000000
+      internalID: 3757909233205890937
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WeaponSheet_22
+      rect:
+        serializedVersion: 2
+        x: 206
+        y: 265
+        width: 31
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5b6ac764a58fd1b10800000000000000
+      internalID: 1953990879961982645
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WeaponSheet_23
+      rect:
+        serializedVersion: 2
+        x: 245
+        y: 270
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f402d4e6381b69c50800000000000000
+      internalID: 6671715076045348943
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WeaponSheet_24
+      rect:
+        serializedVersion: 2
+        x: 266
+        y: 270
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a167159a90dd30400800000000000000
+      internalID: 289317834646976026
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WeaponSheet_25
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 229
+        width: 21
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: de049a30eba5adfc0800000000000000
+      internalID: -3469360790783835923
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WeaponSheet_26
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 229
+        width: 27
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2e76a66411908cd70800000000000000
+      internalID: 9063504219883595746
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WeaponSheet_27
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 232
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a09a48929b3fedef0800000000000000
+      internalID: -81359766655031030
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WeaponSheet_28
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 230
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6911957879603f340800000000000000
+      internalID: 4896264467762450838
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WeaponSheet_29
+      rect:
+        serializedVersion: 2
+        x: 134
+        y: 231
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0dbe63547f5af4550800000000000000
+      internalID: 6147314497820748752
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WeaponSheet_30
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 228
+        width: 26
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8453a7efc3c08f1a0800000000000000
+      internalID: -6775652183271918264
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WeaponSheet_31
+      rect:
+        serializedVersion: 2
+        x: 190
+        y: 228
+        width: 29
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2b785986955eb0700800000000000000
+      internalID: 507751555178792882
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WeaponSheet_32
+      rect:
+        serializedVersion: 2
+        x: 223
+        y: 228
+        width: 30
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 83cba9f72e487db50800000000000000
+      internalID: 6617904285782555704
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WeaponSheet_33
+      rect:
+        serializedVersion: 2
+        x: 260
+        y: 226
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1aef3ba53e3382ac0800000000000000
+      internalID: -3879794027407343967
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WeaponSheet_34
+      rect:
+        serializedVersion: 2
+        x: 298
+        y: 247
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 07306939bad162870800000000000000
+      internalID: 8657639956419052400
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WeaponSheet_35
+      rect:
+        serializedVersion: 2
+        x: 309
+        y: 230
+        width: 16
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 88fb91e1c87b59fe0800000000000000
+      internalID: -1182837514686578808
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WeaponSheet_36
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 247
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5c48882d170398550800000000000000
+      internalID: 6163510830454834373
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WeaponSheet_37
+      rect:
+        serializedVersion: 2
+        x: 335
+        y: 223
+        width: 36
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0a0af8281410ba140800000000000000
+      internalID: 4731877214357790880
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WeaponSheet_38
+      rect:
+        serializedVersion: 2
+        x: 374
+        y: 223
+        width: 35
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cea9f3c87463c0790800000000000000
+      internalID: -7562609993338348820
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WeaponSheet_39
+      rect:
+        serializedVersion: 2
+        x: 412
+        y: 221
+        width: 37
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e50d42358191555a0800000000000000
+      internalID: -6533288092166205346
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WeaponSheet_40
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 233
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3420dd26ee0c28b40800000000000000
+      internalID: 5441123429910381123
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WeaponSheet_41
+      rect:
+        serializedVersion: 2
+        x: 293
+        y: 236
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f31037b36050dff10800000000000000
+      internalID: 2305004108608897343
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WeaponSheet_42
+      rect:
+        serializedVersion: 2
+        x: 298
+        y: 225
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 454bc4cfd45ad78a0800000000000000
+      internalID: -6305702148884876204
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WeaponSheet_43
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 225
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 13e7d5685f10e9fe0800000000000000
+      internalID: -1180503898291601871
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WeaponSheet_44
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 197
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 55813f2a40cfc6650800000000000000
+      internalID: 6227629481590462549
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WeaponSheet_45
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 195
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 816ece5bd2bf99030800000000000000
+      internalID: 3502106359001572888
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WeaponSheet_46
+      rect:
+        serializedVersion: 2
+        x: 118
+        y: 197
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ef366db4f67033770800000000000000
+      internalID: 8589217088920773630
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WeaponSheet_47
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 198
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5ca80643a250c5a70800000000000000
+      internalID: 8816927849310096069
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WeaponSheet_48
+      rect:
+        serializedVersion: 2
+        x: 226
+        y: 200
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 55c6585df9a273b50800000000000000
+      internalID: 6572769047140985941
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WeaponSheet_49
+      rect:
+        serializedVersion: 2
+        x: 266
+        y: 192
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 410abe8b9ca47f460800000000000000
+      internalID: 7275365953291657236
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WeaponSheet_50
+      rect:
+        serializedVersion: 2
+        x: 299
+        y: 193
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 10e897f3855f0f9e0800000000000000
+      internalID: -1589500909090927103
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WeaponSheet_51
+      rect:
+        serializedVersion: 2
+        x: 331
+        y: 193
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9cfb803c9e169eef0800000000000000
+      internalID: -78423861874868279
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WeaponSheet_52
+      rect:
+        serializedVersion: 2
+        x: 350
+        y: 204
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bc49f37d86d35d350800000000000000
+      internalID: 6040801995684549835
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WeaponSheet_53
+      rect:
+        serializedVersion: 2
+        x: 363
+        y: 193
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: df56d97fad40a5c80800000000000000
+      internalID: -8333342821992012291
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WeaponSheet_54
+      rect:
+        serializedVersion: 2
+        x: 399
+        y: 195
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0e06c9d0d5a2ad9a0800000000000000
+      internalID: -6207602557228130080
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WeaponSheet_55
+      rect:
+        serializedVersion: 2
+        x: 434
+        y: 195
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 15985232a640e2df0800000000000000
+      internalID: -203220079282386607
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WeaponSheet_56
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 193
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 17fce701d76e5fc80800000000000000
+      internalID: -8289466114283483279
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WeaponSheet_57
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 194
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 024b7541946c823c0800000000000000
+      internalID: -4384036220068973536
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WeaponSheet_58
+      rect:
+        serializedVersion: 2
+        x: 61
+        y: 194
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f3bc35466a65e0c40800000000000000
+      internalID: 5480413069204245311
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WeaponSheet_59
+      rect:
+        serializedVersion: 2
+        x: 87
+        y: 194
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3ff28f6f4fcd5deb0800000000000000
+      internalID: -4695604091790282765
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WeaponSheet_60
+      rect:
+        serializedVersion: 2
+        x: 110
+        y: 193
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bfb7c6542a8bf6a90800000000000000
+      internalID: -7318427862364816389
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WeaponSheet_61
+      rect:
+        serializedVersion: 2
+        x: 134
+        y: 194
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 43d8cf96cb2bd0ae0800000000000000
+      internalID: -1581411371835421388
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WeaponSheet_62
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 194
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9148d325770c69910800000000000000
+      internalID: 1843872716168201241
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WeaponSheet_63
+      rect:
+        serializedVersion: 2
+        x: 187
+        y: 195
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: af40f1a19b6ed4fb0800000000000000
+      internalID: -4661816356577016582
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WeaponSheet_64
+      rect:
+        serializedVersion: 2
+        x: 214
+        y: 196
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a4999c0a7af086360800000000000000
+      internalID: 7162992419964295498
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WeaponSheet_65
+      rect:
+        serializedVersion: 2
+        x: 244
+        y: 196
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 12d2c7578b1cf8330800000000000000
+      internalID: 3715401215593164065
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WeaponSheet_66
+      rect:
+        serializedVersion: 2
+        x: 283
+        y: 167
+        width: 25
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b6d3998c3374e2e70800000000000000
+      internalID: 9092282985442000235
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WeaponSheet_67
+      rect:
+        serializedVersion: 2
+        x: 323
+        y: 168
+        width: 49
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bb249783254f49d70800000000000000
+      internalID: 9049126185266135739
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WeaponSheet_68
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 167
+        width: 26
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ea767518719a8e5f0800000000000000
+      internalID: -727145421401004114
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WeaponSheet_69
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 187
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ed81159f75fe3c460800000000000000
+      internalID: 7260910185375406302
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WeaponSheet_70
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 187
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7aaf86c1ca50e6920800000000000000
+      internalID: 2985329839762373287
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WeaponSheet_71
+      rect:
+        serializedVersion: 2
+        x: 122
+        y: 188
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ff6244ffa5ef46840800000000000000
+      internalID: 5216573935185045247
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WeaponSheet_72
+      rect:
+        serializedVersion: 2
+        x: 173
+        y: 188
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: de429cf98165e0cf0800000000000000
+      internalID: -284195062717799187
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WeaponSheet_73
+      rect:
+        serializedVersion: 2
+        x: 229
+        y: 189
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2728f4326239a4a00800000000000000
+      internalID: 741566880666321522
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WeaponSheet_74
+      rect:
+        serializedVersion: 2
+        x: 374
+        y: 180
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ef51e2a44ae01bb40800000000000000
+      internalID: 5454156722504340990
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WeaponSheet_75
+      rect:
+        serializedVersion: 2
+        x: 390
+        y: 177
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0ae9136c3db4c4010800000000000000
+      internalID: 1174396975772180128
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WeaponSheet_76
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 181
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f04b4beaa9c063350800000000000000
+      internalID: 5995993812385969167
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WeaponSheet_77
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 177
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a41a69c1c15127c0800000000000000
+      internalID: -4097904293180730205
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WeaponSheet_78
+      rect:
+        serializedVersion: 2
+        x: 28
+        y: 181
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 632c61eae841b63e0800000000000000
+      internalID: -2059529801553231306
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WeaponSheet_79
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 177
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ef0ca599d8c0bbd80800000000000000
+      internalID: -8233973691414036226
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WeaponSheet_80
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 177
+        width: 23
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4bbca00e779602310800000000000000
+      internalID: 1378217449556200372
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WeaponSheet_81
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 181
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0c14416cc3ba9ddd0800000000000000
+      internalID: -2460747443871661632
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WeaponSheet_82
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 177
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 64d96323fcdded220800000000000000
+      internalID: 2512689524089724230
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WeaponSheet_83
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 181
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ecc3580e96fdf3d80800000000000000
+      internalID: -8268644744997552946
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WeaponSheet_84
+      rect:
+        serializedVersion: 2
+        x: 110
+        y: 177
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b0f5cc2136aad1980800000000000000
+      internalID: -8566503573694947573
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WeaponSheet_85
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 181
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2d910768b78cb52e0800000000000000
+      internalID: -2135893165395142190
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WeaponSheet_86
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 177
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 83ab813dfa6754f40800000000000000
+      internalID: 5712102199922309688
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WeaponSheet_87
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 181
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8a43803928f99e780800000000000000
+      internalID: -8653209825854344024
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WeaponSheet_88
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 178
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b629df1b7ffd58d20800000000000000
+      internalID: 3280274158545375851
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WeaponSheet_89
+      rect:
+        serializedVersion: 2
+        x: 181
+        y: 181
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1372c888f34366e60800000000000000
+      internalID: 7955103239275030321
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WeaponSheet_90
+      rect:
+        serializedVersion: 2
+        x: 190
+        y: 178
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 856b9f1144c16de30800000000000000
+      internalID: 4527837554052544088
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WeaponSheet_91
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 178
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 27ce5d547fdcebed0800000000000000
+      internalID: -2396251489802261390
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WeaponSheet_92
+      rect:
+        serializedVersion: 2
+        x: 217
+        y: 178
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 974e8a3e927728b60800000000000000
+      internalID: 7746885330827535481
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WeaponSheet_93
+      rect:
+        serializedVersion: 2
+        x: 238
+        y: 181
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b1c0e901936edcec0800000000000000
+      internalID: -3544924198904394725
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WeaponSheet_94
+      rect:
+        serializedVersion: 2
+        x: 248
+        y: 178
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6c0c1b7670de179b0800000000000000
+      internalID: -5084021888264322874
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WeaponSheet_95
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 174
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 084226ecbf4e39560800000000000000
+      internalID: 7319445589557650560
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WeaponSheet_96
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 174
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e3ca098175b66c530800000000000000
+      internalID: 3874902551217351742
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WeaponSheet_97
+      rect:
+        serializedVersion: 2
+        x: 173
+        y: 173
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 40286bea719c2e360800000000000000
+      internalID: 7197536258044101124
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WeaponSheet_98
+      rect:
+        serializedVersion: 2
+        x: 266
+        y: 159
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0197f494b1e9a5250800000000000000
+      internalID: 5934229299045300496
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WeaponSheet_99
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 160
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b8e0f3d793ab41440800000000000000
+      internalID: 4905750650190499467
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WeaponSheet_100
+      rect:
+        serializedVersion: 2
+        x: 331
+        y: 160
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 962faca57a56c59b0800000000000000
+      internalID: -5090081709378309527
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WeaponSheet_101
+      rect:
+        serializedVersion: 2
+        x: 364
+        y: 160
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d754ce9ea2e039d00800000000000000
+      internalID: 978141121545520509
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WeaponSheet_102
+      rect:
+        serializedVersion: 2
+        x: 399
+        y: 159
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 97826b06929d85bc0800000000000000
+      internalID: -3794043914320205703
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WeaponSheet_103
+      rect:
+        serializedVersion: 2
+        x: 434
+        y: 160
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8a1985e608ebb03e0800000000000000
+      internalID: -2086364543539703384
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WeaponSheet_104
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 169
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 25bedb123bf5407c0800000000000000
+      internalID: -4106051737285170350
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WeaponSheet_105
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 159
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 71b030746acb56420800000000000000
+      internalID: 2622709780355156759
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WeaponSheet_106
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 169
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 66fd02ccea73995a0800000000000000
+      internalID: -6514114162126168218
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WeaponSheet_107
+      rect:
+        serializedVersion: 2
+        x: 61
+        y: 169
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0c27f0c81c157fed0800000000000000
+      internalID: -2380343986321657152
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WeaponSheet_108
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 159
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 981efccd7abe4ae10800000000000000
+      internalID: 2208148823515062665
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WeaponSheet_109
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 169
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1eba6e1708fd47ab0800000000000000
+      internalID: -5011134742596768799
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WeaponSheet_110
+      rect:
+        serializedVersion: 2
+        x: 109
+        y: 169
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c45387fc100c6d300800000000000000
+      internalID: 276619541138126156
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WeaponSheet_111
+      rect:
+        serializedVersion: 2
+        x: 118
+        y: 159
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b6af3acabe8bea0d0800000000000000
+      internalID: -3409584545519633813
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WeaponSheet_112
+      rect:
+        serializedVersion: 2
+        x: 134
+        y: 168
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dd3b130d7d7297970800000000000000
+      internalID: 8753071158635639773
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WeaponSheet_113
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 168
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a567759c005d78a40800000000000000
+      internalID: 5370495280017274458
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WeaponSheet_114
+      rect:
+        serializedVersion: 2
+        x: 187
+        y: 167
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5e36ccdb6d41e1300800000000000000
+      internalID: 224639943954949093
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WeaponSheet_115
+      rect:
+        serializedVersion: 2
+        x: 214
+        y: 166
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d5170d51b49f94650800000000000000
+      internalID: 6217774861445525853
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WeaponSheet_116
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 158
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a7859283ca01aa510800000000000000
+      internalID: 1561078552699951226
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WeaponSheet_117
+      rect:
+        serializedVersion: 2
+        x: 226
+        y: 156
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f59f2bace627836c0800000000000000
+      internalID: -4163452035331327649
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WeaponSheet_118
+      rect:
+        serializedVersion: 2
+        x: 244
+        y: 165
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ac57e9b91ce6cd1f0800000000000000
+      internalID: -1018817637873977910
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WeaponSheet_119
+      rect:
+        serializedVersion: 2
+        x: 350
+        y: 156
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5d60a477701237720800000000000000
+      internalID: 2842652105750742741
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WeaponSheet_120
+      rect:
+        serializedVersion: 2
+        x: 185
+        y: 139
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a7d097c76a978b1d0800000000000000
+      internalID: -3334781768108012166
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WeaponSheet_121
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 136
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 79ea52bd5bedd41f0800000000000000
+      internalID: -1058945464715071849
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WeaponSheet_122
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 134
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2974450a0488002e0800000000000000
+      internalID: -2161578009988675694
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WeaponSheet_123
+      rect:
+        serializedVersion: 2
+        x: 177
+        y: 105
+        width: 21
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f7032bb26f34ffd00800000000000000
+      internalID: 1008599566128394367
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WeaponSheet_124
+      rect:
+        serializedVersion: 2
+        x: 202
+        y: 105
+        width: 31
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 27d33c0447e0fc100800000000000000
+      internalID: 130338806682566002
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WeaponSheet_125
+      rect:
+        serializedVersion: 2
+        x: 237
+        y: 111
+        width: 15
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 50ae72909c78f5180800000000000000
+      internalID: -9124425022517548539
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WeaponSheet_126
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 111
+        width: 15
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9152219ba1015afb0800000000000000
+      internalID: -4637282534347889383
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WeaponSheet_127
+      rect:
+        serializedVersion: 2
+        x: 273
+        y: 113
+        width: 14
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5ced391863c298240800000000000000
+      internalID: 4794411890926411461
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WeaponSheet_128
+      rect:
+        serializedVersion: 2
+        x: 57
+        y: 80
+        width: 11
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dcc756972e7832ae0800000000000000
+      internalID: -1575266037880488755
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WeaponSheet_129
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 80
+        width: 11
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 872baf0b9e66a2eb0800000000000000
+      internalID: -4743866103598763400
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WeaponSheet_130
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 80
+        width: 11
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0680da100ae0d7d00800000000000000
+      internalID: 971949174967568480
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WeaponSheet_131
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 46
+        width: 21
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8faea9b0ae619b8a0800000000000000
+      internalID: -6288970210173326600
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WeaponSheet_132
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 46
+        width: 31
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b1f1a97938d53bd30800000000000000
+      internalID: 4446000076910370587
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WeaponSheet_133
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 40
+        width: 32
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1131aec7166944160800000000000000
+      internalID: 7008892265547043601
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WeaponSheet_134
+      rect:
+        serializedVersion: 2
+        x: 158
+        y: 40
+        width: 38
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5a223623805cbbf90800000000000000
+      internalID: -6936734162038349147
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WeaponSheet_135
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 48
+        width: 38
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fa027623de71afa80800000000000000
+      internalID: -8432401044777525073
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WeaponSheet_136
+      rect:
+        serializedVersion: 2
+        x: 247
+        y: 48
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a8bc4c54a7e53f930800000000000000
+      internalID: 4175785158752127882
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WeaponSheet_137
+      rect:
+        serializedVersion: 2
+        x: 287
+        y: 40
+        width: 32
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f2a7924f336e734f0800000000000000
+      internalID: -848956893921969617
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WeaponSheet_138
+      rect:
+        serializedVersion: 2
+        x: 324
+        y: 40
+        width: 30
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c428a4b68bc6db6b0800000000000000
+      internalID: -5278943648878525876
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WeaponSheet_139
+      rect:
+        serializedVersion: 2
+        x: 357
+        y: 64
+        width: 6
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: acd8e62fc3393b880800000000000000
+      internalID: -8596365373745492534
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WeaponSheet_140
+      rect:
+        serializedVersion: 2
+        x: 365
+        y: 40
+        width: 24
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 749b7bf40f6837560800000000000000
+      internalID: 7310334986840160583
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WeaponSheet_141
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 5
+        width: 21
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b435a34410da1f8b0800000000000000
+      internalID: -5120121080392297653
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WeaponSheet_142
+      rect:
+        serializedVersion: 2
+        x: 222
+        y: 5
+        width: 31
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f603303c403253b90800000000000000
+      internalID: -7262860320706449297
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WeaponSheet_143
+      rect:
+        serializedVersion: 2
+        x: 258
+        y: 15
+        width: 16
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 223153353900fc8e0800000000000000
+      internalID: -1671116303974984926
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
