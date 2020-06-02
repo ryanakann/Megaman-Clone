@@ -11,6 +11,7 @@ GameObject:
   - component: {fileID: 1357262009898905796}
   - component: {fileID: 1645358302114926251}
   - component: {fileID: -7975113840070039509}
+  - component: {fileID: -8055880202367077596}
   m_Layer: 0
   m_Name: Bullet
   m_TagString: Untagged
@@ -95,9 +96,21 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: a0910f230f336a847b9ceb1f9d18e977, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  allColliders: []
-  collisions: []
+  tag: Default
   trigger: 1
   bounds:
     center: {x: 0, y: 0}
     size: {x: 0, y: 0}
+--- !u!114 &-8055880202367077596
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1453435602561741427}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 718bf7b88f9f42b4b8bb967343591d25, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  speed: 10

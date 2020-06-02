@@ -3,11 +3,13 @@ using System.Collections.Generic;
 using UnityEngine;
 
 [RequireComponent(typeof(CustomRigidbody2D), typeof(AnimatorController), typeof(SpriteRenderer))]
-public class Player : MonoBehaviour {
+public class Player : Entity {
     private new SpriteRenderer renderer;
     private AnimatorController controller;
     private CustomRigidbody2D rb;
     
+    [SerializeField]
+    private GameObject bulletPrefab;
 
     [Header("Movement")]
     [Range(0.25f, 20f)]
@@ -31,7 +33,9 @@ public class Player : MonoBehaviour {
     public float curIntervalOffset;
     public int shotsTakenThisInterval;
 
-    private void Awake () {
+    protected override void Awake () {
+        base.Awake();
+
         renderer = GetComponent<SpriteRenderer>();
         controller = GetComponent<AnimatorController>();
         rb = GetComponent<CustomRigidbody2D>();
@@ -61,7 +65,8 @@ public class Player : MonoBehaviour {
             shotsTakenThisInterval++;
             shotCurCD = shotMaxCD;
 
-            Debug.Log("Bang!");
+            GameObject instance = Instantiate(bulletPrefab, transform.position + transform.right * (renderer.flipX ? -1 : 1), Quaternion.identity);
+            instance.GetComponent<SpriteRenderer>().flipX = renderer.flipX;
         }
     }
 
