@@ -11,6 +11,9 @@ public class Player : Entity {
     [SerializeField]
     private GameObject bulletPrefab;
 
+    [Header("Control")]
+    public bool locked;
+
     [Header("Movement")]
     [Range(0.25f, 20f)]
     public float groundSpeed = 1f;
@@ -32,6 +35,7 @@ public class Player : Entity {
     public float intervalSeconds = 1f;
     public float curIntervalOffset;
     public int shotsTakenThisInterval;
+    public float timeSinceLastShot;
 
     protected override void Awake () {
         base.Awake();
@@ -43,6 +47,29 @@ public class Player : Entity {
         shotCurCD = shotMaxCD;
         shotsTakenThisInterval = 0;
         curIntervalOffset = 0f;
+        timeSinceLastShot = Mathf.Infinity;
+
+        StartCoroutine(StartupSequence());
+    }
+
+    protected IEnumerator StartupSequence () {
+        locked = true;
+        controller.SetBool("startup", true);
+        Vector3 end = transform.position;
+        Vector3 start = transform.position + Vector3.up * 10f;
+        rb.gravityScale = 0f;
+        transform.position = start;
+        float t = 0f;
+        while (t < 1f) {
+            transform.position = Vector3.Lerp(start, end, t);
+            t += Time.deltaTime * 2.5f;
+            yield return new WaitForEndOfFrame();
+        }
+        rb.gravityScale = 1f;
+        transform.position = end;
+        yield return new WaitForSeconds(0.25f);
+        locked = false;
+        controller.SetBool("startup", false);
     }
 
     protected void Update () {
@@ -51,6 +78,7 @@ public class Player : Entity {
         } else {
             shotCurCD -= Time.deltaTime;
         }
+        timeSinceLastShot += Time.deltaTime;
 
         if (curIntervalOffset >= intervalSeconds || shotsTakenThisInterval == 0) {
             curIntervalOffset = 0f;
@@ -58,11 +86,15 @@ public class Player : Entity {
         } else {
             curIntervalOffset += Time.deltaTime;
         }
+
+        controller.SetInt("shoot", timeSinceLastShot < 1f ? 1 : 0);
+        controller.SetInt("jump", !rb.grounded ? 1 : 0);
     }
 
     public void Shoot () {
         if (shotCurCD <= 0 && shotsTakenThisInterval < maxShotsPerInterval) {
             shotsTakenThisInterval++;
+            timeSinceLastShot = 0f;
             shotCurCD = shotMaxCD;
 
             GameObject instance = Instantiate(bulletPrefab, transform.position + transform.right * (renderer.flipX ? -1 : 1), Quaternion.identity);
@@ -71,6 +103,7 @@ public class Player : Entity {
     }
 
     public void Move(float x, bool jumpDown, bool jumpStay) {
+        if (locked) return;
         if (x > Mathf.Epsilon) {
             renderer.flipX = false;
         }

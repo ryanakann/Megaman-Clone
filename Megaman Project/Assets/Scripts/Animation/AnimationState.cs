@@ -5,7 +5,7 @@ using UnityEngine;
 [System.Serializable]
 public class AnimationState {
     [SerializeField]
-    public new string name = "Animation";
+    public string name = "Animation";
     [SerializeField]
     public  bool loop = true;
     [SerializeField]

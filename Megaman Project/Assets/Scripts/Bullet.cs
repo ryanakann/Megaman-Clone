@@ -6,9 +6,14 @@ public class Bullet : Entity {
 
     [Range(1f, 20f)]
     public float speed = 5f;
+    public AudioClip shootSound;
 
     protected override void Awake () {
         base.Awake();
+        if (shootSound != null) {
+            AudioManager.Play(shootSound, false);
+        }
+        Destroy(gameObject, 10f / speed);
     }
 
     void Update () {

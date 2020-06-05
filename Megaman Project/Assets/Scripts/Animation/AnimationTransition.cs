@@ -17,27 +17,34 @@ public class AnimationTransition {
 
     public bool Evaluate (AnimatorController controller) {
         foreach(AnimationCriterion condition in conditions) {
+            // Debug.Log($"\t{condition.property}{condition.comparator}{condition.value}...");
             System.Type type = controller.GetPropertyType(condition.property);
             if (type == typeof(int)) {
                 if (false == Evaluate(controller.GetInt(condition.property), condition)) {
+                    Debug.Log($"\t{condition.property} {condition.comparator} {condition.value} not met...");
                     return false;
                 }
             } else if (type == typeof(float)) {
                 if (false == Evaluate(controller.GetFloat(condition.property), condition)) {
+                    Debug.Log($"\t{condition.property} {condition.comparator} {condition.value} not met...");
                     return false;
                 }
             } else if (type == typeof(bool)) {
                 if (false == Evaluate(controller.GetBool(condition.property), condition)) {
+                    Debug.Log($"\t{condition.property} {condition.comparator} {condition.value} not met...");
                     return false;
                 }
             }
         }
+        Debug.Log($"Switching from {entryState} to {exitState}!");
         return true;
     }
 
     private bool Evaluate (int value, AnimationCriterion criterion) {
         switch(criterion.comparator) {
             case "=": //equal to
+                return value == (int)criterion.value;
+            case "==":
                 return value == (int)criterion.value;
             case "<": //less than
                 return value < (int)criterion.value;
@@ -54,6 +61,8 @@ public class AnimationTransition {
     private bool Evaluate (float value, AnimationCriterion criterion) {
         switch(criterion.comparator) {
             case "=": //equal to
+                return value == (float)criterion.value;
+            case "==":
                 return value == (float)criterion.value;
             case "<": //less than
                 return value < (float)criterion.value;

@@ -25,24 +25,25 @@ public class AnimatorController : MonoBehaviour {
         InitPropertyMap();
         InitAnimationStateMap();
         InitStateToTransitionMap();
-
+        print(stateToTransitionMap[animationStateMap["idle"]].Count);
         renderer = GetComponent<SpriteRenderer>();
 
         currentState = defaultState;
         currentAnimation = GetAnimation(currentState);
+        Play();
     }
 
     private void Update () {
-
         foreach(AnimationTransition transition in stateToTransitionMap[currentAnimation]) {
+            Debug.Log($"{transition.entryState}-{transition.exitState}...");
             if (true == transition.Evaluate(this)) {
                 if (currentState != transition.exitState) {
                     currentState = transition.exitState;
                     currentAnimation = GetAnimation(currentState);
                     Play();
+                    break;
                 }
             }
-            break;
         }
     }
 
@@ -68,6 +69,10 @@ public class AnimatorController : MonoBehaviour {
 
         foreach (AnimationTransition transition in transitions) {
             AnimationState state = GetAnimation(transition.entryState);
+            if (state == null) {
+                Debug.Log($"{transition.entryState}-{transition.exitState} not registered. State was null!");
+                continue;
+            }
             if (stateToTransitionMap.ContainsKey(state)) {
                 stateToTransitionMap[state].Add(transition);
             } else {
@@ -75,6 +80,7 @@ public class AnimatorController : MonoBehaviour {
                 newTransitions.Add(transition);
                 stateToTransitionMap.Add(state, newTransitions); 
             }
+            Debug.Log($"{transition.entryState}-{transition.exitState} transition registered! Count: {stateToTransitionMap[state].Count}");
         }
     }
 
