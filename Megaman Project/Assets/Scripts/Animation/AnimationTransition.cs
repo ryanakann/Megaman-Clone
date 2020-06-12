@@ -21,22 +21,22 @@ public class AnimationTransition {
             System.Type type = controller.GetPropertyType(condition.property);
             if (type == typeof(int)) {
                 if (false == Evaluate(controller.GetInt(condition.property), condition)) {
-                    Debug.Log($"\t{condition.property} {condition.comparator} {condition.value} not met...");
+                    // Debug.Log($"\t{condition.property} {condition.comparator} {condition.value} not met...");
                     return false;
                 }
             } else if (type == typeof(float)) {
                 if (false == Evaluate(controller.GetFloat(condition.property), condition)) {
-                    Debug.Log($"\t{condition.property} {condition.comparator} {condition.value} not met...");
+                    // Debug.Log($"\t{condition.property} {condition.comparator} {condition.value} not met...");
                     return false;
                 }
             } else if (type == typeof(bool)) {
                 if (false == Evaluate(controller.GetBool(condition.property), condition)) {
-                    Debug.Log($"\t{condition.property} {condition.comparator} {condition.value} not met...");
+                    // Debug.Log($"\t{condition.property} {condition.comparator} {condition.value} not met...");
                     return false;
                 }
             }
         }
-        Debug.Log($"Switching from {entryState} to {exitState}!");
+        // Debug.Log($"Switching from {entryState} to {exitState}!");
         return true;
     }
 
