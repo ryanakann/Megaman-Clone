@@ -2194,6 +2194,116 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 0}
     m_Modifications:
+    - target: {fileID: 4956691655349401394, guid: d0a2e8c20d58a884cb1869402feb58b0,
+        type: 3}
+      propertyPath: tween.m_Curve.Array.size
+      value: 2
+      objectReference: {fileID: 0}
+    - target: {fileID: 4956691655349401394, guid: d0a2e8c20d58a884cb1869402feb58b0,
+        type: 3}
+      propertyPath: tween.m_Curve.Array.data[1].time
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 4956691655349401394, guid: d0a2e8c20d58a884cb1869402feb58b0,
+        type: 3}
+      propertyPath: tween.m_Curve.Array.data[1].value
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 4956691655349401394, guid: d0a2e8c20d58a884cb1869402feb58b0,
+        type: 3}
+      propertyPath: tween.m_Curve.Array.data[1].inSlope
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4956691655349401394, guid: d0a2e8c20d58a884cb1869402feb58b0,
+        type: 3}
+      propertyPath: tween.m_Curve.Array.data[1].outSlope
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4956691655349401394, guid: d0a2e8c20d58a884cb1869402feb58b0,
+        type: 3}
+      propertyPath: tween.m_Curve.Array.data[0].inSlope
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4956691655349401394, guid: d0a2e8c20d58a884cb1869402feb58b0,
+        type: 3}
+      propertyPath: tween.m_Curve.Array.data[0].outSlope
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4956691655349401394, guid: d0a2e8c20d58a884cb1869402feb58b0,
+        type: 3}
+      propertyPath: tween.m_Curve.Array.data[0].tangentMode
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4956691655349401394, guid: d0a2e8c20d58a884cb1869402feb58b0,
+        type: 3}
+      propertyPath: tween.m_Curve.Array.data[1].tangentMode
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4956691655349401394, guid: d0a2e8c20d58a884cb1869402feb58b0,
+        type: 3}
+      propertyPath: tween.m_Curve.Array.data[0].value
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4956691655349401394, guid: d0a2e8c20d58a884cb1869402feb58b0,
+        type: 3}
+      propertyPath: tween.m_Curve.Array.data[0].outWeight
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4956691655349401394, guid: d0a2e8c20d58a884cb1869402feb58b0,
+        type: 3}
+      propertyPath: tween.m_Curve.Array.data[1].inWeight
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4956691655349401394, guid: d0a2e8c20d58a884cb1869402feb58b0,
+        type: 3}
+      propertyPath: tween.m_Curve.Array.data[1].outWeight
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4956691655349401394, guid: d0a2e8c20d58a884cb1869402feb58b0,
+        type: 3}
+      propertyPath: tween.m_Curve.Array.data[2].time
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 4956691655349401394, guid: d0a2e8c20d58a884cb1869402feb58b0,
+        type: 3}
+      propertyPath: tween.m_Curve.Array.data[2].inSlope
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4956691655349401394, guid: d0a2e8c20d58a884cb1869402feb58b0,
+        type: 3}
+      propertyPath: tween.m_Curve.Array.data[2].outSlope
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4956691655349401394, guid: d0a2e8c20d58a884cb1869402feb58b0,
+        type: 3}
+      propertyPath: tween.m_Curve.Array.data[2].tangentMode
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4956691655349401394, guid: d0a2e8c20d58a884cb1869402feb58b0,
+        type: 3}
+      propertyPath: tween.m_Curve.Array.data[2].inWeight
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4956691655349401394, guid: d0a2e8c20d58a884cb1869402feb58b0,
+        type: 3}
+      propertyPath: tween.m_Curve.Array.data[2].value
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 4956691655349401394, guid: d0a2e8c20d58a884cb1869402feb58b0,
+        type: 3}
+      propertyPath: tween.m_Curve.Array.data[2].outWeight
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4956691655349401394, guid: d0a2e8c20d58a884cb1869402feb58b0,
+        type: 3}
+      propertyPath: tween.m_Curve.Array.data[3].time
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 4956691655349401394, guid: d0a2e8c20d58a884cb1869402feb58b0,
+        type: 3}
+      propertyPath: tween.m_Curve.Array.data[3].value
+      value: 1
+      objectReference: {fileID: 0}
     - target: {fileID: 4956691656683606502, guid: d0a2e8c20d58a884cb1869402feb58b0,
         type: 3}
       propertyPath: m_Name
